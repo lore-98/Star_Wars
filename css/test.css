@@ -1,19 +1,15 @@
-body{
-	background-image:url('img/hyperspace.jpg');
-}
-
 h1 {
-	color: yellow;
-	background-color: black;
+color: yellow;
+background-color: black;
 }
 
 span {
-	color: yellow;
-	font-size: 50px;
-	font-style: bold;
+color: yellow;
+font-size: 50px;
+font-family: sans-serif;
 }
 
 .grande{
-	font-size: 100px;
+font-size: 100px;
 }
 
