@@ -1,0 +1,19 @@
+body{
+	background-color: blue;
+}
+
+h1 {
+	color: darkred;
+	background-color: darkgreen;
+}
+
+h2 {
+	font-size: 60px;
+	color: teal;
+	background-color: deeppink;
+}
+
+.grande{
+	font-size: 100px;
+}
+
