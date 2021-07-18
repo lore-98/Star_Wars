@@ -1,16 +1,16 @@
 body{
-	background-color: blue;
+	background-image: img/hyperspace.jpg;
 }
 
 h1 {
-	color: darkred;
-	background-color: darkgreen;
+	color: yellow;
+	background-color: black;
 }
 
-h2 {
-	font-size: 60px;
-	color: teal;
-	background-color: deeppink;
+span {
+	color: yellow;
+	font-size: 50px;
+	font-style: bold;
 }
 
 .grande{
